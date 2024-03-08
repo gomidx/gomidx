@@ -6,7 +6,7 @@
 
 🎓 Graduated in Systems Analysis and Development from Fatec of Franca - Brazil
 
-👩‍💻 I currently work at Irroba E-commerce as a backend developer
+👩‍💻 I currently work at Tray as a Backend Developer
 
 📍 Brazil
 
