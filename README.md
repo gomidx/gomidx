@@ -27,9 +27,10 @@
 
 ### I'm learning 🧩
 
+![PHP](https://img.shields.io/badge/php-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23DD0031.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Kafka](https://img.shields.io/badge/kafka-%23100000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### GitHub Stats ⚡
